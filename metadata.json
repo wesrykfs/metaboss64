@@ -1,0 +1,37 @@
+{
+  "name": "Invisible Girl #97",
+  "symbol": "IGL",
+  "description": "Invisible Girl was released on most platforms, and players all over the world were attracted by the pixel-like game style. We want to create a weworld nft collection, so that everyone has their own unique nft, and it will always exist on the blockchain.",
+  "seller_fee_basis_points": 200,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://gateway.ipfs.io/ipfs/QmZ9GUSfaRQmechPDgkGZBGqC1RQgEZgXotWdgQcu43HPB",
+  "attributes": [
+   {
+      "trait_type": "Background",
+      "value": "Peach Schnapps"
+    },
+    {
+      "trait_type": "Dress",
+      "value": "Kimono"
+    },
+    {
+      "trait_type": "Accessories",
+      "value": "Round Eye"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Natural Hair Skins"
+    },
+    {
+      "trait_type": "Shoes",
+      "value": "Cerise Pink Cute"
+    }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "8CA6cwo9PpqUsDB8WU4vB5eFJYRv3cA3kYyrGy2p5iAZ",
+        "share": 100
+      }
+    ]
+  }
+
